@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nombre": "Juan Pérez", "direccion": "Calle 1 #123", "telefono": "555-1234" },
+    { "id": 2, "nombre": "María García", "direccion": "Avenida 2 #456", "telefono": "555-5678" },
+    { "id": 3, "nombre": "Carlos Sánchez", "direccion": "Boulevard 3 #789", "telefono": "555-9012" }
+]
